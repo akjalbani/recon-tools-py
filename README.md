@@ -22,7 +22,7 @@ This repository contains a Python script that automates various reconnaissance t
 
     ```bash
     git clone https://github.com/akjalbani/recon-tools-py.git
-     cd recon-automation
+    
     ```
 
 2. **Install Python Dependencies**:
