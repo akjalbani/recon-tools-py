@@ -21,8 +21,8 @@ This repository contains a Python script that automates various reconnaissance t
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/YourGitHubUsername/recon-automation.git
-    cd recon-automation
+    git clone https://github.com/akjalbani/recon-tools-py.git
+     cd recon-automation
     ```
 
 2. **Install Python Dependencies**:
